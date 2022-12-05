@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Webpack](https://img.shields.io/badge/-Webpack-green) ![React.js](https://img.shields.io/badge/-React.js-black)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Math Magicians
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and Read a random math-related quote
 
-## Available Scripts
+## 🛠 Built With 
+<a name="built-with">![HTML](https://img.shields.io/badge/-HTML-orange) <br> ![CSS](https://img.shields.io/badge/-CSS-blue) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) <br> ![Webpack](https://img.shields.io/badge/-Webpack-green)
+<br> ![React.js](https://img.shields.io/badge/-React.js-black)
+</a>
 
-In the project directory, you can run:
+### Tech Stack <a name="tech-stack"></a>
 
-### `npm start`
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript
+">JavaScript</a></li>
+<li><a href="https://reactjs.org/docs/getting-started.html
+">React.js</a></li>
+  </ul>
+</details>
+<!-- Features -->
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Key Features <a name="key-features"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Single-Page-Application**
 
-### `npm test`
+## 💻 Getting Started <a name="getting-started"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running follow these simple steps.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- VIsual Studio Code.
+- A Web Browser (preferably Google Chrome)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Clone the GitHub Repository
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- run this commands in your terminal:
+    - `npm install`
+    - `npm run build`
+    - `npm start`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Usage
+  After running `npm start` the website will be opened automatically on your default browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Run tests
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To run tests, run the following command in your terminal:
+  - `npm test`
 
-## Learn More
+<!-- AUTHORS -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👤 **Abdallah Antony**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GitHub: [@githubhandle](https://github.com/abdallahmalima)
+- Twitter: [@twitterhandle](https://twitter.com/Softmal1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdallah-malima-antony/)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- CONTRIBUTING -->
 
-### Analyzing the Bundle Size
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions, issues, and feature requests are welcome!
 
-### Making a Progressive Web App
+Feel free to check the [issues page](https://github.com/abdallahmalima/Math-Magician/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- SUPPORT -->
 
-### Advanced Configuration
+## ⭐️ Show your support <a name="support"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Give a ⭐️ if you like this project!
 
-### Deployment
+<!-- ACKNOWLEDGEMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-### `npm run build` fails to minify
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
+- Hat tip to anyone whose code was used.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- LICENSE -->
