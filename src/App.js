@@ -1,9 +1,8 @@
 import React from 'react';
-import Calculator from './components/Calculator';
 
 const App = () => (
     <div className="App">
-     <Calculator />
+     <h1>Todo App</h1>
     </div>
 );
 
