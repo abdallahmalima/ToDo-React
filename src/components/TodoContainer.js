@@ -28,9 +28,6 @@ const TodoContainer = () => {
         setError(err.message);
       });
 
-    return () => {
-      console.log('unmounted');
-    };
   }, []);
 
   const handleChange = (id) => {
