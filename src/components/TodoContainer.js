@@ -27,7 +27,6 @@ const TodoContainer = () => {
       }).catch((err) => {
         setError(err.message);
       });
-
   }, []);
 
   const handleChange = (id) => {
