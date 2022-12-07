@@ -1,7 +1,7 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Webpack](https://img.shields.io/badge/-Webpack-green) ![React.js](https://img.shields.io/badge/-React.js-black)
 
-# Math Magicians
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations and Read a random math-related quote
+# Todo App
+"Todo App" is a website that allow user to create,update and track todo's completed status. It is a Single Page App (SPA) created using React.js Framework,this Application uses React features like routes,hooks and components.
 
 ## 🛠 Built With 
 <a name="built-with">![HTML](https://img.shields.io/badge/-HTML-orange) <br> ![CSS](https://img.shields.io/badge/-CSS-blue) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) <br> ![Webpack](https://img.shields.io/badge/-Webpack-green)
@@ -68,7 +68,7 @@ To run tests, run the following command in your terminal:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abdallahmalima/Math-Magician/issues).
+Feel free to check the [issues page](https://github.com/abdallahmalima/ToDo-React/issues).
 
 <!-- SUPPORT -->
 
